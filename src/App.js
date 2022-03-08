@@ -62,6 +62,7 @@ function App() {
         </Box>
         <Box>
           <Transactions transactions={transactions} deleteTransaction={deleteTransaction}/>
+          <text> </text>
         </Box>
       </Box>
     </div>
